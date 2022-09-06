@@ -1,0 +1,116 @@
+body{ font-family: 'Cabin', sans-serif;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+section {
+    padding-bottom: 5rem;
+}
+
+
+/* Section menu */
+
+.menu a.nav-link{
+    text-transform: uppercase;
+    padding-left: 0;
+    color: #808080;
+}
+
+.menu .social-media-icons{
+    font-size: 18px;
+    
+}
+
+.menu .social-media-icons i{
+    margin-left: 25px;
+}
+
+/* Sectionpresentation */
+
+ .presentation img.popular-recipe{
+    width: 100%;
+    height: 370px;
+    object-fit: cover;
+}
+
+.presentation .capitalize{
+    text-transform: capitalize;
+    width: 70%;
+}
+
+.presentation .recipe-content h5,p,span{
+    color: #808080;
+}
+
+/* Section cooking options */
+
+img.alabala{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+img.recipes{
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+}
+
+img.editor-choice {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.trending-articles  h3{
+    color: #808080;
+}
+
+.green{
+    color: #8bc34a;
+}
+
+/* Section food */
+
+.food img.ingredients{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+/* .food p{
+    width: 78%;
+} */
+
+/* Section popular-posts */
+
+img.articles{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.popular-posts  h3{
+    color: #808080;
+}
+
+img.editor-option{
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+
+}
+
+/* Footer */
+
+input.form-control{
+    border-radius: 18px;
+    width: 70%;
+    display: inline;
+}
+
+.send-button{
+    background-color: #000;
+    border-radius:45%;
+    color: #fff;
+}
+
